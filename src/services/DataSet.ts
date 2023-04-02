@@ -16,7 +16,7 @@ export const DataSet: Data[] = [
             "who is ur developer",
             "who is your developer",
         ],
-        a: ["I was created by a Software developer, Tejas Jadhav."],
+        a: ["I was created by SetMenu."],
     },
     {
         q: ["hi", "hello", "hey", "heyy", "heyyy", "heyyyy", "heyyyyy", "hola", "Holaa", "wazap", "hi there", "hi there", "hie", "hiee", "hieee"],
@@ -133,6 +133,22 @@ export const DataSet: Data[] = [
             "Why did the man run around his bed? \n ... To catch up on his sleep! ",
             "Why did the robber take a bath before he stole from the bank? \n ... He wanted to make a clean get away",
         ],
+    },
+    {
+        q: ["How does setmenu work",],
+        a: ["Setmenu allows businesses to create and customize QR codes using a simple online interface. Once the QR code is created, it can be printed or displayed in various locations, such as on menus, flyers, or posters. Customers can then scan the QR code using their smartphone camera to access the content linked to the code."],
+    },
+    {
+        q: ["what is setmenu",],
+        a: ["SetMenu is a software platform designed to help restaurants create digital menus. The platform enables restaurant owners and managers to customize their menus with descriptions and images, and make updates or changes as needed. SetMenu also offers integration with existing restaurant websites and provides tools to track customer engagement and behavior. Overall, SetMenu aims to improve the quality and accessibility of restaurant menus and enhance the dining experience for customers."],
+    },
+    {
+        q: ["what is receipe",],
+        a: ["A recipe is a set of instructions that explains how to prepare and cook a particular dish or meal. Recipes typically list the ingredients needed, along with the measurements and preparation techniques required for each ingredient. Recipes can be written or spoken, and they can vary in complexity from simple instructions for a basic dish to more detailed instructions for more elaborate and complicated meals. The purpose of a recipe is to provide a consistent and replicable method for preparing a dish, ensuring that the dish will turn out as intended each time it is made."],
+    },
+    {
+        q: ["how setmenu help business to grow",],
+        a: ["Improved customer experience: With SetMenu, businesses can create digital menus that are easy to read, navigate, and update. This can help to enhance the overall dining experience for customers, leading to increased customer satisfaction and loyalty."],
     },
 ];
 

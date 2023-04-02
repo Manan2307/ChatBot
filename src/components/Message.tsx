@@ -42,8 +42,8 @@ export default function Message(props: Props) {
 
                     {props.msg.server == "Developer" && (
                         <div className="msgLinks">
-                            <GrLinkedinOption className="link linkedin" onClick={() => openWebpage("linkedin.com/in/", "tejas-jadhav-765043110")} />
-                            <GrGithub className="link github" onClick={() => openWebpage("github.com/", "TeeeJaey")} />
+                            <GrLinkedinOption className="link linkedin" onClick={() => openWebpage("linkedin.com/in/", "manan2307")} />
+                            <GrGithub className="link github" onClick={() => openWebpage("github.com/", "manan2307")} />
                         </div>
                     )}
                     <div className="time"> {showdate} </div>
