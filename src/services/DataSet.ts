@@ -150,6 +150,22 @@ export const DataSet: Data[] = [
         q: ["how setmenu help business to grow",],
         a: ["Improved customer experience: With SetMenu, businesses can create digital menus that are easy to read, navigate, and update. This can help to enhance the overall dining experience for customers, leading to increased customer satisfaction and loyalty."],
     },
+    {
+        q: ["Recommend a fast food item",],
+        a: ["Burgers are particularly popular now a days"],
+    },
+    {
+        q: ["What are the ingredients in a burger",],
+        a: ["burger contains a choice of patty, tomato slice and a few sauces"],
+    },
+    {
+        q: ["Recommend another item",],
+        a: ["Pizzas are also ordered frequently"],
+    },
+    {
+        q: ["Is there a dress code for dine-in?",],
+        a: ["No, there is no dress code for dine-in."],
+    },
 ];
 
 export const WikiDataSet: Data[] = [
